@@ -26,7 +26,11 @@ You can use the {{cssxref("@font-face")}} CSS property to use WOFF fonts for tex
 
 ## Tools for working with WOFF fonts
 
-- [Tools for working with WOFF](https://github.com/odemiral/woff2sfnt-sfnt2woff) fonts are available. `sfnt2woff` and `woff2sfnt` convert between WOFF and OpenType.
+Tools for working with WOFF fonts are available.
+
+* [`sfnt2woff` and `woff2sfnt`](https://github.com/odemiral/woff2sfnt-sfnt2woff) convert between WOFF and OpenType.
+* [`ttf2woff`](https://metacpan.org/dist/Font-TTF-Scripts/view/scripts/ttf2woff) converts TrueType fonts to WOFF. It is part of the [SIL FontUtils](http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=FontUtils) package.
+* [FontForge](https://github.com/fontforge/fontforge) is a free utility for creating, editing, and converting fonts, including WOFF.
 
 ## Specifications
 
